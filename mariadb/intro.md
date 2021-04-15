@@ -1,0 +1,1 @@
+In this course we are going to learn how to install MariaDB 10.4.

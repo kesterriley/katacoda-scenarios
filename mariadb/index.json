@@ -1,8 +1,8 @@
 {
   "title": "Installation of MariaDB",
-  "description": "Learn how to install MariaDB",
+  "description": "Learn how to install MariaDB 10.4, on a CentOS 7 environment",
   "difficulty": "Beginner",
-  "time": "5",
+  "time": "10",
   "details": {
     "steps": [
       {
@@ -38,7 +38,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "centos"
